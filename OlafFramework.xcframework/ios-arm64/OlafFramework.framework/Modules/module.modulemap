@@ -1,0 +1,6 @@
+framework module OlafFramework {
+  umbrella header "OlafFramework.h"
+  export *
+
+  module * { export * }
+}
